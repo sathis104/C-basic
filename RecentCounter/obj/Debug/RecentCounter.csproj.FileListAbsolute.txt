@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Csharp\App1\RecentCounter\bin\Debug\RecentCounter.exe.config
+C:\Users\USER\Desktop\Csharp\App1\RecentCounter\bin\Debug\RecentCounter.exe
+C:\Users\USER\Desktop\Csharp\App1\RecentCounter\bin\Debug\RecentCounter.pdb
+C:\Users\USER\Desktop\Csharp\App1\RecentCounter\obj\Debug\RecentCounter.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Csharp\App1\RecentCounter\obj\Debug\RecentCounter.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Csharp\App1\RecentCounter\obj\Debug\RecentCounter.exe
+C:\Users\USER\Desktop\Csharp\App1\RecentCounter\obj\Debug\RecentCounter.pdb

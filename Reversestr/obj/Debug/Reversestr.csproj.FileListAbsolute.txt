@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Csharp\App1\Reversestr\bin\Debug\Reversestr.exe.config
+C:\Users\USER\Desktop\Csharp\App1\Reversestr\bin\Debug\Reversestr.exe
+C:\Users\USER\Desktop\Csharp\App1\Reversestr\bin\Debug\Reversestr.pdb
+C:\Users\USER\Desktop\Csharp\App1\Reversestr\obj\Debug\Reversestr.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Csharp\App1\Reversestr\obj\Debug\Reversestr.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Csharp\App1\Reversestr\obj\Debug\Reversestr.exe
+C:\Users\USER\Desktop\Csharp\App1\Reversestr\obj\Debug\Reversestr.pdb

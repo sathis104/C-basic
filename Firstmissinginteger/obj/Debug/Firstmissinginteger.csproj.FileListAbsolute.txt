@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Csharp\App1\Firstmissinginteger\bin\Debug\Firstmissinginteger.exe.config
+C:\Users\USER\Desktop\Csharp\App1\Firstmissinginteger\bin\Debug\Firstmissinginteger.exe
+C:\Users\USER\Desktop\Csharp\App1\Firstmissinginteger\bin\Debug\Firstmissinginteger.pdb
+C:\Users\USER\Desktop\Csharp\App1\Firstmissinginteger\obj\Debug\Firstmissinginteger.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Csharp\App1\Firstmissinginteger\obj\Debug\Firstmissinginteger.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Csharp\App1\Firstmissinginteger\obj\Debug\Firstmissinginteger.exe
+C:\Users\USER\Desktop\Csharp\App1\Firstmissinginteger\obj\Debug\Firstmissinginteger.pdb

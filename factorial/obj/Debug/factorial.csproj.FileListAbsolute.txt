@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Csharp\App1\factorial\bin\Debug\factorial.exe.config
+C:\Users\USER\Desktop\Csharp\App1\factorial\bin\Debug\factorial.exe
+C:\Users\USER\Desktop\Csharp\App1\factorial\bin\Debug\factorial.pdb
+C:\Users\USER\Desktop\Csharp\App1\factorial\obj\Debug\factorial.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Csharp\App1\factorial\obj\Debug\factorial.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Csharp\App1\factorial\obj\Debug\factorial.exe
+C:\Users\USER\Desktop\Csharp\App1\factorial\obj\Debug\factorial.pdb
